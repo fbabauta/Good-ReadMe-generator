@@ -1,14 +1,25 @@
 {
-  "name": "static-site",
+  "name": "Good-ReadMe-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generate a README from user input to prompted questions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbabauta/Good-ReadMe-generator.git"
+  },
+  "author": "Francine Babauta",
   "license": "ISC",
+  "bugs":{
+  "url": "https://github.com/fbabauta/Good-ReadMe-generator/issues"
+  },
+  "homepage": "https://github.com/fbabauta/Good-ReadMe-generator#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "axios": "^0.19.2",
+    "dedent": "^0.7.0",
+    "inquirer": "^7.1.0",
+    "util": "^0.12.2"
   }
 }

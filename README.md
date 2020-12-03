@@ -6,7 +6,6 @@
 Every good project needs a quality README with information about the app - what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. The user is first prompted to answer questions about their project that are essential to any README. Since not all projects require the same kind of README, the user is then given a choice of other sections they would like to include based on the need of their project. Optional sections include: License, Installation, Credits, Contribution, and Tests. Based on this answer, they are then prompted with follow up questions. After the last question is answered, their README.md file is generated and they can add it to their project repository.
 
 ## Table of Contents
-  - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Usage](#usage)
   - [Technologies](#technologies)

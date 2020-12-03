@@ -9,7 +9,7 @@
 
 ## Table of Contents
 
-- [Description](#description)
+  - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)

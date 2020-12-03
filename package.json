@@ -1,5 +1,4 @@
 {
-  {
   "name": "static-site",
   "version": "1.0.0",
   "description": "Command-line application that uses input from a user to dynamically generate a README for a GitHub project.",
@@ -7,10 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  
   "author": "Francine Babauta",
   "license": "ISC",
-    "axios": "^0.19.2",
-    "inquirer": "^7.3.3",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "inquirer": "^6.3.1"
   }
 }

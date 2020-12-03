@@ -5,7 +5,7 @@
   Check out the badges hosted by [shields.io](https://shields.io/).
 ## Description
 
-* The what, why, and how:*
+*The what, why, and how:*
 
 ## Table of Contents
 - [README.md File Generator](#readmemd-file-generator)
@@ -19,15 +19,15 @@
 
 ## Installation
 
-* Steps required to install project and how to get the development environment running:*
+*Steps required to install project and how to get the development environment running:*
 
 ## Usage
 
-* Instructions and examples for use:*
+*Instructions and examples for use:*
 
 ## Tests
 
-* Tests for application and how to run them:*
+*Tests for application and how to run them:*
 
 ## License
 

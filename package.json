@@ -11,14 +11,5 @@
   "dependencies": {
     "axios": "^0.19.0",
     "inquirer": "^6.3.1"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fbabauta/Good-ReadMe-generator.git"
-  },
-  "bugs": {
-    "url": "https://github.com/fbabauta/Good-ReadMe-generator/issues"
-  },
-  "homepage": "https://github.com/fbabauta/Good-ReadMe-generator#readme"
+  }
 }

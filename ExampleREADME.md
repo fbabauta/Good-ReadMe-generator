@@ -8,8 +8,8 @@
 *The what, why, and how:*
 
 ## Table of Contents
-- [README.md File Generator](#readmemd-file-generator)
-  - [Description](#description)
+
+- [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)

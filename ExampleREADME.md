@@ -41,4 +41,4 @@ For any questions about this repo, feel free to contact me:
 
 Github: [@fbabauta](https://api.github.com/users/fbabauta)
 
-![user image](https://avatars1.githubusercontent.com/u/70370805?s=460&u=1cd11eb811c3ac3a5d189a21702c464e28dbc8bf&v=4)
+![Developer Profile Picture](https://avatars1.githubusercontent.com/u/70370805?v=4)

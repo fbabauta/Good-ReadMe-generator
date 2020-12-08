@@ -4,7 +4,7 @@
   "description": "Command-line application that uses input from a user to dynamically generate a README for a GitHub project.",
   "main": "index.js",
   "dependencies": {
-    "axiom": "^0.1.6",
+    "axios": "^0.21.0",
     "inquirer": "^7.3.3"
   },
   "devDependencies": {

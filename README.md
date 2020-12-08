@@ -18,6 +18,8 @@ Every good project needs a quality README with information about the app - what 
 
 *Instructions and examples for use:*
 
+![](https://media.giphy.com/media/8P0mvIosNlxq0GcNMK/giphy-downsized-large.gif)
+
 
 When you run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions about your GitHub and about your project.
 

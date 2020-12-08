@@ -1,15 +1,25 @@
 {
   "name": "good-readme-generator",
   "version": "1.0.0",
-  "description": "Command-line application that uses input from a user to dynamically generate a README for a Github project.",
+  "description": 
   "main": "index.js",
+  "dependencies": {
+    "axiom": "^0.1.6",
+    "fs": "^0.0.1-security",
+    "inquirer": "^7.3.3",
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Francine Babauta",
-  "license": "MIT",
-  "dependencies": {
-    "axiom": "^0.1.6",
-    "inquirer": "^7.3.3",
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbabauta/Good-ReadMe-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbabauta/Good-ReadMe-generator/issues"
+  },
+  "homepage": "https://github.com/fbabauta/Good-ReadMe-generator#readme"
 }

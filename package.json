@@ -4,9 +4,8 @@
   "description": "\"Command-line application that uses input from a user to dynamically generate a README for a Github project.\"",
   "main": "index.js",
   "dependencies": {
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.3"
+    "axiom": "^0.1.6",
+    "inquirer": "^7.3.3"
   },
   "devDependencies": {},
   "scripts": {

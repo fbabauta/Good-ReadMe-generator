@@ -13,7 +13,7 @@
   * [Usage](#usage)
   * [Tests](#tests)
   * [License](#license)
-  * [Questions?](#questions)
+  * [Questions](#questions)
 ## Installation
 
 *Steps required to install project and how to get the development environment running:*

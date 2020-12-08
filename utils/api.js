@@ -1,17 +1,16 @@
 const axios = require('axios');
 
 const api = {
-    async getUser(userResponses)   {
+    async getUser(userResponses) {
         try {
-            let response = await axios;
+            let response = await axios
         
-          // Sample URL: https://api.github.com/users/fbabauta
-          .get('https://api.github.com/users/${userResponses.username}');
-          return response.data;
+                // Sample URL: https://api.github.com/users/fbabauta
+                .get(`https://api.github.com/users/${userResponses.username}`);
           
-          } catch (error)  {
-              console.log(error);
-          }
+        } catch (error) {
+            console.log(error);
+        }
     }
 };
 

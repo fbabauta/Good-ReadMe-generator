@@ -116,20 +116,25 @@ let draftDev =
 If you have any questions about the repo, feel free to contact me:
 
 GitHub: [@${userInfo.login}](${userInfo.url})
-  `;
+`;
 
+![Developer Profile Picture](${ userInfo.avatar_url }) 
+  
   // If GitHub email is not null, add to Developer section
   if (userInfo.email !== null) {
   
   draftDev +=
   `
+
   Email: ${userInfo.email}
+
   `};
 
-![Developer Profile Picture](${userInfo.avatar_url}) 
+ // Add developer section to markdown
+  draftMarkdown += draftDev;
 
-
-`
+  // Return markdown
+  return draftMarkdown;
 
 }
 

@@ -118,7 +118,7 @@ If you have any questions about the repo, feel free to contact me:
 GitHub: [@${userInfo.login}](${userInfo.url})
 `;
 
-![Developer Profile Picture](${ userInfo.avatar_url }) 
+![Developer Profile Picture](${userInfo.avatar_url}) 
   
   // If GitHub email is not null, add to Developer section
   if (userInfo.email !== null) {

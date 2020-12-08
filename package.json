@@ -1,14 +1,17 @@
 {
   "name": "good-readme-generator",
   "version": "1.0.0",
-  "description": 
+  "description": "Command-line application that uses input from a user to dynamically generate a README for a GitHub project.",
   "main": "index.js",
   "dependencies": {
     "axiom": "^0.1.6",
-    "fs": "^0.0.1-security",
-    "inquirer": "^7.3.3",
+    "inquirer": "^7.3.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "fs": "0.0.1-security",
+    "util": "^0.12.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

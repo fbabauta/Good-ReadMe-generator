@@ -9,14 +9,11 @@
 
 ## Table of Contents
 
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Tests](#tests)
-  - [License](#license)
-  - [Questions?](#questions)
-
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Tests](#tests)
+  * [License](#license)
+  * [Questions?](#questions)
 ## Installation
 
 *Steps required to install project and how to get the development environment running:*
